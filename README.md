@@ -1,5 +1,7 @@
 # Light-dark mode project
 
+> Hosted on [replit.com](https://replit.com): [replit.com/@maxdevjs/learn-light-dark](https://replit.com/@maxdevjs/learn-light-dark)
+
 These are the corresponding files for my three-part video series on creating your own custom light-dark mode theme with CSS variables and a little JavaScript.
 
 ## Getting Started
